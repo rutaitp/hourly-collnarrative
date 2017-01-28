@@ -1,0 +1,99 @@
+body {
+	background-color: #00BFFF;
+}
+h1 {
+	font-family: Courier;
+	color: white;
+	padding-left: 20px;
+}
+#note {
+	font-family: Courier;
+	color: white;
+}
+.container {
+	padding-left: 50px;
+	padding-bottom: 20px;
+}
+.image-text {
+	width: 250px;
+	float: left;
+	margin-right: 5px;
+	margin-top: 5px;
+	display: block;
+}
+.one {
+	width: 312.33px;
+	float: left;
+	margin-right: 5px;
+	margin-top: 5px;
+	display: block;
+}
+div.image1 {
+	content:url("images/1.jpg");
+	height: 250px;
+}
+div.image2 {
+	content:url("images/2.jpg");
+	height: 250px;
+}
+div.image3 {
+	content:url("images/3.jpg");
+	height: 250px;
+}
+div.image4 {
+	content:url("images/4.jpg");
+	width: 250px;
+}
+div.image5 {
+	content:url("images/5.jpg");
+	width: 250px;
+}
+div.image6 {
+	content:url("images/6.jpg");
+	width: 250px;
+}
+div.image7 {
+	content:url("images/7.jpg");
+	width: 250px;
+}
+div.image8 {
+	content:url("images/8.jpg");
+	width: 250px;
+}
+div.image9 {
+	content:url("images/9.jpg");
+	width: 250px;
+}
+div.image10 {
+	content:url("images/10.jpg");
+	/*width: 250px;*/
+	height: 250px;
+}
+div.image11 {
+	content:url("images/11.jpg");
+	height: 250px;
+}
+div.image12 {
+	content:url("images/12.jpg");
+	width: 250px;
+}
+div.image13 {
+	content:url("images/13.jpg");
+	width: 250px;
+}
+div.image14 {
+	content:url("images/14.jpg");
+	width: 250px;
+}
+div.image15 {
+	content:url("images/15.jpg");
+	height: 250px;
+}
+div.image16 {
+	content:url("images/16.jpg");
+	width: 250px;
+}
+div.image17 {
+	content:url("images/17.jpg");
+	width: 250px;
+}
